@@ -12,7 +12,7 @@ meteor
 
 Open up http://localhost:3000 and see this.
 
-!BlockChainForCharity(/public/BlockChainForCharity.PNG)
+![Block Chain For Charity](/public/BlockChainForCharity.PNG)
 
 ## What is this?
 
